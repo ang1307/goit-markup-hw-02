@@ -1,12 +1,11 @@
 body {
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
-
-
+    background-color: #fff;
 }
 
-ul, ol {
+ul,
+ol {
     list-style-type: none;
 }
 
@@ -40,7 +39,7 @@ logo {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color: #4d5ae5;
 }
 
 .header-logo .logo-part {
@@ -80,7 +79,8 @@ logo {
     color: #434455;
 }
 
-
+.nav-link:hover,
+.nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
     color: #404bbf;
