@@ -17,7 +17,7 @@ a {
 
 .logo {
     
-    font-family: "Roboto", sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -73,37 +73,36 @@ a {
 }
 
 .main {
-    background-color: #2E2F42;
+    background-color: #2e2f42;
 }
 .main-heading {
-    font-family: Roboto, sans-serif;
-    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
     font-size: 56px;
     font-weight: 700;
     font-size: 56px;
-    line-height: 107%;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
 
 .order-service-button {
-    color: #FFFFFF;
+    color: #ffffff;
     background-color: #4D5AE5;
-    font-family: Roboto, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: left;
     cursor: pointer;
-    background-color: #4d5ae5;
 }
 
 .order-service-button:hover,
-.order-service-button:focus {background-color: #4d5ae5;}
+.order-service-button:focus {background-color: #4D5AE5;}
 
 .advantage-title {
-    font-family: Roboto;
+    font-family: 'Roboto';
     color: #2e2f42;
     font-size: 20px;
     line-height: 24px;
