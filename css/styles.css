@@ -15,7 +15,7 @@ a {
 }
 
 
-logo {
+.logo {
     
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -26,11 +26,13 @@ logo {
     color: #4d5ae5;
 }
 
-.header-logo .logo-part {
+.header-logo 
+.logo-part {
     color: #2e2f42;
 }
 
-.footer-logo .logo-part {
+.footer-logo 
+.logo-part {
     color: #f4f4fd;
 }
 
