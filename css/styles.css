@@ -72,10 +72,11 @@ a {
     color: #404bbf;
 }
 
-.main {
+.hero {
     background-color: #2e2f42;
 }
-.main-heading {
+
+.hero-title {
     font-family: 'Roboto', sans-serif;
     color: #ffffff;
     font-size: 56px;
@@ -86,7 +87,8 @@ a {
     text-align: center;
 }
 
-.order-service-button {
+
+.order-button {
     color: #ffffff;
     background-color: #4D5AE5;
     font-family: 'Roboto', sans-serif;
@@ -98,10 +100,10 @@ a {
     cursor: pointer;
 }
 
-.order-service-button:hover,
-.order-service-button:focus {background-color: #4D5AE5;}
+.order-button:hover,
+.order-button:focus {background-color: #4D5AE5;}
 
-.advantage-title {
+.feauter-title {
     font-family: 'Roboto';
     color: #2e2f42;
     font-size: 20px;
@@ -118,7 +120,7 @@ a {
     text-align: left;
 }
 
-.advantages-text {
+.feauter-text {
     font-family: Roboto;
     color: #434455;
     font-weight: 400;
